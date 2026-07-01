@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6r0101/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傳法正宗定祖圖
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T51/T51n2079.xml
+    old_id: T51n2079
+hash: sha256:089b8a61527d1ac81b0137b2b05d2dd29e71414768dbb5bb0d267a5147bbc2b8
